@@ -13,8 +13,8 @@ this project is created on 09/10/2021
 ### Requirements
 the program is written python programming language also, the following library are called
 
---> pandas  and 
-    numpy Library
+1. ** pandas  and **
+2. **  numpy Library **
     
 ### Submission of this project
 
@@ -33,9 +33,9 @@ In this project, the student had to make use of Python to explore data related t
 ### Files used
 The main three files used for excuting the program are defined as follow : 
 
-** --> new_york_city.csv
-** --> washington.csv
-** --> chicago.csv
+1. ** --> new_york_city.csv **
+2. ** --> washington.csv **
+3. ** --> chicago.csv **
 
 ### Credits
 The Project Submission entailed printing out a document with most of the Git commands necessary to complete the task given.
