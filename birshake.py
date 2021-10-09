@@ -1,10 +1,13 @@
+## Starting the code source of the project 
+
 import time
 import pandas as pd
 import numpy as np
-# add new import
+## add new import
 import click
 import datetime as dt
 
+##  Define the three important state 
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
@@ -36,7 +39,7 @@ def choice(prompt, choices=('y', 'n')):
 
     return choice
 
-#the first part now
+##  Describe the first part now
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
